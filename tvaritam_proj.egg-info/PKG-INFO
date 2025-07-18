@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: tvaritam_proj
+Version: 0.0.1
+Author: Swapnil
+Author-email: swapnilanand1998@gmail.com
+Requires-Dist: pandas==2.0.3
+Requires-Dist: numpy==1.24.3
+Requires-Dist: seaborn==0.13.2
+Requires-Dist: matplotlib==3.7.5
+Requires-Dist: scikit-learn==1.3.2
+Requires-Dist: xgboost
+Requires-Dist: keras==2.13.1
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

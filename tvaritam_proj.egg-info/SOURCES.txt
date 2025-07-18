@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/__init__.py
+tvaritam_proj.egg-info/PKG-INFO
+tvaritam_proj.egg-info/SOURCES.txt
+tvaritam_proj.egg-info/dependency_links.txt
+tvaritam_proj.egg-info/requires.txt
+tvaritam_proj.egg-info/top_level.txt
